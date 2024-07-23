@@ -1,1 +1,12 @@
-# CODETECH-Task2
+Name:ABHISHEK ANAND
+Company:CODETECH IT SOLUTIONS
+ID:CT6WDS288
+Domain:PYTHON PROGRAMMING
+Duration:JUNE TO JULY 2024
+Mentor:G.SARAVANI
+
+OVERVIEW OF THE PROJECT
+
+PROJECT:PYTHON PROGRAMMING
+
+<img width="1440" alt="Screenshot 2024-07-23 at 1 02 14 PM" src="https://github.com/user-attachments/assets/6d4662f5-69a0-4863-bc0a-68a07f551ef9">
